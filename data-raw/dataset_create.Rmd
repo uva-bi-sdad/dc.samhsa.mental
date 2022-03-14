@@ -5,7 +5,7 @@ date: "11/18/2021"
 output: html_document
 dataset:
   citation:
-      title: "Social Data Commons: Behavioral Health Facilities Access Scores"
+      title: "Social Data Commons: Health, Behavior, Diet: Behavioral Health Facilities Access Scores"
       subtitle: ""
       dsDescriptionValue: "Access Scores for Behavioral Health Facilities, (mental health related) located in the National Capital Region NCR given by the Floating Catchment Areas"
       subject: "Social Sciences (Ex: Education, Politics, Sociology, Economics, Psychology)"
