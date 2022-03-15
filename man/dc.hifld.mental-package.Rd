@@ -6,7 +6,7 @@
 \alias{dc.hifld.mental-package}
 \title{dc.hifld.mental: Social Data Commons: Behavioral Health Facility Access Scores}
 \description{
-Allows user to easily get Behavioral Health Facility Access Scores data from the SDAD Data Commons.  Data can be provided directly or in a file.
+Allows user to easily get Behavioral Health Facility Access Scores data from the SDAD Data Commons. Data can be provided directly or in a file.
 }
 \author{
 \strong{Maintainer}: Cesar Montalvo \email{cpm9w@virginia.edu}
