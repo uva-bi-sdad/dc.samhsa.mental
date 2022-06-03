@@ -13,9 +13,9 @@
     "equity_category" : "Availability",
     "sources": [
       {
-        "name": "Homeland Infrastructure Foundation-Level Data (HIFLD)",
+        "name": "Substance Abuse and Mental Health Services Administration (SAMHSA)",
         "date_accessed": 2021,
-        "url": "https://hifld-geoplatform.opendata.arcgis.com/"
+        "url": "https://www.samhsa.gov/"
       }
     ]
   },
@@ -39,9 +39,9 @@
     ],
     "sources": [
       {
-        "name": "Homeland Infrastructure Foundation-Level Data (HIFLD)",
+        "name": "Substance Abuse and Mental Health Services Administration (SAMHSA)",
         "date_accessed": 2021,
-        "url": "https://hifld-geoplatform.opendata.arcgis.com/"
+        "url": "https://www.samhsa.gov/"
       }
     ]
   },
